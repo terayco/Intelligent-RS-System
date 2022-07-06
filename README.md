@@ -38,7 +38,7 @@
 ## Contributing
 如果你有好的意见或建议，欢迎给我们提 Issues 或 Pull Requests。
 ## 技术交流
-技术交流QQ群（873208513）扫码进群戳[这里](images/erweima.png)
+技术交流QQ群（873208513）扫码进群戳[这里](images/erweima.jpg)
 ## License
 项目基于 MIT 协议，详细请参考 [LICENSE](LICENSE)。
 ## 作者
