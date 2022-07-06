@@ -11,7 +11,7 @@
 * 系统组成
   * [平台主页](docs/system_component_main.md)
   * [功能区](docs/system_component_function.md)
-* [系统架构设计](docs/overview/architecture.md)
+* [系统架构设计](docs/system_design.md)
 * [深度学习模型介绍](docs/overview/code_framework.md)
 ## 平台特点
 - 用户不仅可以使用基本功能，还可以通过本平台了解遥感相关讯息
