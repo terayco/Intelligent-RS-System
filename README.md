@@ -41,3 +41,5 @@
 技术交流QQ群（873208513）扫码进群戳[这里](docs/resource/img/qq.png)
 ## License
 项目基于 MIT 协议，详细请参考 [LICENSE](LICENSE)。
+## 作者
+HHU-河马海牛
