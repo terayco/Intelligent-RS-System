@@ -1,6 +1,6 @@
 ![](images/paddleRS.png)
 # 基于百度飞桨PaddlePaddle的遥感图像智能解译平台
- [![License](https://img.shields.io/badge/license-Apache%202-blue.svg)](LICENSE)
+ [![License](https://img.shields.io/badge/license-MIT%20-blue.svg)](LICENSE)
   ![python version](https://img.shields.io/badge/python-3.7+-orange.svg)
   ![support os](https://img.shields.io/badge/os-linux%2C%20win%2C%20mac-yellow.svg)
 ## 介绍
@@ -40,4 +40,4 @@
 ## 交流
 技术交流QQ群（873208513）扫码进群戳[这里](docs/resource/img/qq.png)
 ## License
-项目基于 MIT 协议，详细请参考 [LICENSE](LICENSE.txt)。
+项目基于 MIT 协议，详细请参考 [LICENSE](LICENSE)。
