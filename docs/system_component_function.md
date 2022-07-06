@@ -42,11 +42,27 @@
   <p align="center">
     <img src="../images/mubiaoxuanran.png" align="middle" width = "800" />
   </p>
-- 5.问题反馈
+- 5.连通域滤波及孔洞填充
+  <p align="center">
+    <img src="../images/lvbo.png" align="middle" width = "800" />
+  </p>
+  <p align="center">
+    <img src="../images/mubiaoxuanran.png" align="middle" width = "800" />
+  </p>
+- 6.问题反馈
   <p align="center">
     <img src="../images/bianhuaxuanran.png" align="middle" width = "800" />
   </p>
-- 6.数据可视化
+- 7.数据可视化
   <p align="center">
     <img src="../images/keshihua.png" align="middle" width = "800" />
   </p>
+- 8.查看我的历史记录
+  <p align="center">
+    <img src="../images/history.png" align="middle" width = "800" />
+  </p> 
+ ## 管理员界面
+ - 1.用户信息管理
+  <p align="center">
+    <img src="../images/admin.png" align="middle" width = "800" />
+  </p> 
