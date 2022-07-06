@@ -4,9 +4,13 @@
 ## 快速开始
 本平台的网址为:https://www.hemars.top
 ## Overview
-* [系统组成](docs/overview/design.md)
+* 系统组成
+  * [平台主页](docs/overview/design.md)
+  * [功能区](docs/overview/design.md)
 * [系统架构设计](docs/overview/architecture.md)
 * [深度学习模型介绍](docs/overview/code_framework.md)
+## 平台特点
+- 变化检测
 ## 功能实现
 本平台的主要功能如下：
 ###### 基本功能
