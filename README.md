@@ -9,8 +9,8 @@
 本平台的网址为:https://hemars.top, 点击进入。
 ## Overview
 * 系统组成
-  * [平台主页](docs/overview/design.md)
-  * [功能区](docs/overview/design.md)
+  * [平台主页](docs/system_component_main.md)
+  * [功能区](docs/system_component_function.md)
 * [系统架构设计](docs/overview/architecture.md)
 * [深度学习模型介绍](docs/overview/code_framework.md)
 ## 平台特点
