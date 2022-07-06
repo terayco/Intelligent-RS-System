@@ -27,26 +27,26 @@
   <p align="center">
     <img src="../images/caijian.jpg" align="middle" width = "800" />
   </p>
-  - 2.直方图匹配
+- 2.直方图匹配
   <p align="center">
     <img src="../images/zhifangtu.png" align="middle" width = "800" />
   </p>
-  - 3.CLAHE（限制对比度直方图均衡化）
+- 3.CLAHE（限制对比度直方图均衡化）
   <p align="center">
     <img src="../images/CLAHE.png" align="middle" width = "800" />
   </p>
- - 4.渲染（变化检测/目标提取）
+- 4.渲染（变化检测/目标提取）
   <p align="center">
     <img src="../images/bianhuaxuanran.png" align="middle" width = "800" />
   </p>
   <p align="center">
     <img src="../images/mubiaoxuanran.png" align="middle" width = "800" />
   </p>
- - 5.问题反馈
+- 5.问题反馈
   <p align="center">
     <img src="../images/bianhuaxuanran.png" align="middle" width = "800" />
   </p>
-  - 6.数据可视化
+- 6.数据可视化
   <p align="center">
     <img src="../images/keshihua.png" align="middle" width = "800" />
   </p>
