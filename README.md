@@ -42,4 +42,8 @@
 ## License
 项目基于 MIT 协议，详细请参考 [LICENSE](LICENSE)。
 ## 作者
-HHU-河马海牛
+**HHU-河马海牛队**<p align="r">
+    <img src="images/logo.png" align="middle" width = "100" />
+</p>
+
+
