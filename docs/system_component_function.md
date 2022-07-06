@@ -58,12 +58,12 @@
   <p align="center">
     <img src="../images/history.png" align="middle" width = "600" />
   </p> 
- ## 管理员界面
- - 1.用户信息管理
+## 管理员界面
+- 1.用户信息管理
   <p align="center">
     <img src="../images/admin.png" align="middle" width = "600" />
   </p> 
- - 2.反馈信息查看
+- 2.目标检测
   <p align="center">
     <img src="../images/admin2.png" align="middle" width = "600" />
   </p> 
