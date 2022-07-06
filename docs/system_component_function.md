@@ -46,9 +46,6 @@
   <p align="center">
     <img src="../images/lvbo.png" align="middle" width = "800" />
   </p>
-  <p align="center">
-    <img src="../images/mubiaoxuanran.png" align="middle" width = "800" />
-  </p>
 - 6.问题反馈
   <p align="center">
     <img src="../images/bianhuaxuanran.png" align="middle" width = "800" />
@@ -66,3 +63,8 @@
   <p align="center">
     <img src="../images/admin.png" align="middle" width = "800" />
   </p> 
+ - 2.反馈信息查看
+  <p align="center">
+    <img src="../images/admin.png" align="middle" width = "800" />
+  </p> 
+
