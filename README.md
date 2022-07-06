@@ -1,7 +1,10 @@
-![](docs/resource/img/bk-cmdb.png)
+![](images/paddleRS.png)
 # 基于百度飞桨PaddlePaddle的遥感图像智能解译平台
+ [![License](https://img.shields.io/badge/license-Apache%202-blue.svg)](LICENSE)
+  ![python version](https://img.shields.io/badge/python-3.7+-orange.svg)
+  ![support os](https://img.shields.io/badge/os-linux%2C%20win%2C%20mac-yellow.svg)
 ## 介绍
-本项目基于百度飞桨Paddle框架开发，以web形式为用户提供遥感图像智能解译服务。
+本项目基于[百度飞桨Paddle](https://www.paddlepaddle.org.cn/)框架和[PaddleRS](https://github.com/PaddleCV-SIG/PaddleRS)库开发，以web形式为用户提供遥感图像智能解译服务。
 ## 快速开始
 本平台的网址为:https://hemars.top, 点击进入。
 ## Overview
