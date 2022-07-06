@@ -12,7 +12,7 @@
   * [平台主页](docs/system_component_main.md)
   * [功能区](docs/system_component_function.md)
 * [系统架构设计](docs/system_design.md)
-* [深度学习模型介绍](docs/overview/code_framework.md)
+* [深度学习模型介绍](docs/deep_learning_models.md)
 ## 平台特点
 - 用户不仅可以使用基本功能，还可以通过本平台了解遥感相关讯息
 - 适应性强，对图片大小无要求限制
