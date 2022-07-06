@@ -50,3 +50,5 @@ PP-YOLO 是飞桨团队在 YOLOv3 的基础上又做了一系列深度优化。�
 Spatial pyramid pooling：比如DeepLab、PSPNet，通过利用多尺度信息，这些模型已在多个基准上显示出令人鼓舞的结果。
 Encoder-decoder：通常，编码器-解码器网络包含（1）逐渐减少特征图并捕获更高语义信息的编码器模块，以及（2）逐渐恢复空间信息的解码器模块。
 Depthwise separable convolution：深度可分离卷积或分组卷积，一种强大的操作，可以降低计算成本和参数数量，同时保持类似（或稍好一点）的性能。 此操作已在许多最近的神经网络设计中采用。特别是，我们探索了Xception模型，并显示了语义分割任务的准确性和速度方面的改进。
+## 更多详情
+请参考[PaddleRS官网](https://github.com/PaddleCV-SIG/PaddleRS)
