@@ -1,7 +1,7 @@
 ![](images/paddleRS.png)
 # 基于百度飞桨PaddlePaddle的遥感图像智能解译平台
  [![License](https://img.shields.io/badge/license-MIT%20-blue.svg)](LICENSE)
-  ![python version](https://img.shields.io/badge/python-3.7+-orange.svg)
+  ![python version](https://img.shields.io/badge/python-3.8+-orange.svg)
   ![support os](https://img.shields.io/badge/os-linux%2C%20win%2C%20mac-yellow.svg)
 ## 介绍
 本项目基于[百度飞桨Paddle](https://www.paddlepaddle.org.cn/)框架和[PaddleRS](https://github.com/PaddleCV-SIG/PaddleRS)库开发，以web形式为用户提供遥感图像智能解译服务。
@@ -37,7 +37,7 @@
 - 10.图片编辑（用户可以对除变化检测外的三个功能的待处理图片进行预先编辑后再上传）
 ## Contributing
 如果你有好的意见或建议，欢迎给我们提 Issues 或 Pull Requests。
-## 交流
+## 技术交流
 技术交流QQ群（873208513）扫码进群戳[这里](docs/resource/img/qq.png)
 ## License
 项目基于 MIT 协议，详细请参考 [LICENSE](LICENSE)。
