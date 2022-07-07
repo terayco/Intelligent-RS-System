@@ -1,0 +1,17 @@
+Flask==2.1.1
+Flask-APScheduler==1.12.2
+Flask-DebugToolbar==0.11.0
+Flask-Migrate==3.1.0
+Flask-Login==0.6.0
+Flask_Reuploaded==0.5.0
+Flask-SQLAlchemy==2.5.1
+flask-marshmallow==0.14.0
+marshmallow-sqlalchemy==0.26.1
+PyMySQL==1.0.2
+psutil==5.8.0
+Flask-Mail==0.9.1
+sqlparse==0.4.2
+captcha==0.3
+Pillow==8.2.0
+python-dotenv==0.19.1
+webargs==8.0.1
