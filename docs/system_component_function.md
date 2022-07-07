@@ -48,7 +48,7 @@
   </p>
 - 6.问题反馈
   <p align="center">
-    <img src="../images/bianhuaxuanran.png" align="middle" width = "600" />
+    <img src="../images/wenti.png" align="middle" width = "600" />
   </p>
 - 7.数据可视化
   <p align="center">
@@ -63,7 +63,7 @@
   <p align="center">
     <img src="../images/admin.png" align="middle" width = "600" />
   </p> 
-- 2.目标检测
+- 2.反馈信息浏览
   <p align="center">
     <img src="../images/admin2.png" align="middle" width = "600" />
   </p> 
