@@ -1,5 +1,5 @@
 ## 后端部分
-由于github上传大小限制，本平台所用模型参数(原本放在RS/static_models下)放在百度网盘供大家下载
+由于github上传文件大小限制，本平台所用模型参数(原本放在RS/static_models下)放在百度网盘供大家下载
 - 变化检测模型：https://pan.baidu.com/s/1EMi_UMoxmRNfvhulX_C6uw?pwd=iaah 
 提取码：iaah
 - 目标检测模型：https://pan.baidu.com/s/1TY-ZTGHrUskqATOVwqZ3kA?pwd=mptr 
