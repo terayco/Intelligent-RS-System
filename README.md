@@ -6,7 +6,7 @@
 ## 介绍
 本项目基于[百度飞桨Paddle](https://www.paddlepaddle.org.cn/)框架和[PaddleRS](https://github.com/PaddleCV-SIG/PaddleRS)库开发，以web形式为用户提供遥感图像智能解译服务。
 ## 快速开始
-本平台的网址为:https://hemars.top, 点击进入。（若进入网之后无法使用可能是服务器未打开，请联系QQ:446512537）
+本平台的网址为:https://hemars.top, 点击进入。（*若进入网之后无法使用可能是服务器未打开，请联系QQ:446512537*）
 ## Overview
 * 系统组成
   * [平台主页](docs/system_component_main.md)
