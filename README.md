@@ -5,8 +5,6 @@
   ![support os](https://img.shields.io/badge/os-linux%2C%20win%2C%20mac-yellow.svg)
 ## 介绍
 本项目基于[百度飞桨Paddle](https://www.paddlepaddle.org.cn/)框架和[PaddleRS](https://github.com/PaddleCV-SIG/PaddleRS)库开发，以web形式为用户提供遥感图像智能解译服务。
-## 快速开始
-本平台的网址为:https://hemars.top, 点击进入。（*若进入网站之后无法使用可能是服务器未打开，请联系QQ:446512537*）
 ## Overview
 * 系统组成
   * [平台主页](docs/system_component_main.md)
@@ -24,6 +22,7 @@
 - 2.目标检测
 - 3.目标提取
 - 4.地物分类
+- 5.在线地图
 ###### 扩展功能
 - 1.直方图匹配（针对变化检测使用，使两个时期图片风格保持一致）
 - 2.连通域滤波及孔洞填充（有效提高变化检测结果图准确率）
