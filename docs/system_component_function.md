@@ -4,8 +4,8 @@
 - 目标检测
 - 目标提取
 - 地物分类
-# 功能表总览
-- 所有功能如下图
+# 扩展功能表总览
+- 所有扩展功能如下图
   <p align="center">
     <img src="../images/gongneng.png" align="middle" width = "600" />
   </p>
