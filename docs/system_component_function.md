@@ -7,7 +7,7 @@
 # 功能表总览
 - 所有功能如下图
   <p align="center">
-    <img src="../images/bianhuajiance.png" align="middle" width = "600" />
+    <img src="../images/gongneng.png" align="middle" width = "600" />
   </p>
 ## 主要功能效果展示
 - 1.变化检测
