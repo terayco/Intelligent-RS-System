@@ -11,7 +11,7 @@
   </p>
 - 2.目标检测
   <p align="center">
-    <img src="../images/mubiaojiance.png" align="middle" width = "600" />
+    <img src="../images/jiance.png" align="middle" width = "600" />
   </p>
 - 3.目标提取
   <p align="center">
@@ -21,7 +21,10 @@
  <p align="center">
     <img src="../images/mubiaotiqu.png" align="middle" width = "600" />
   </p>
-  
+- 5.在线地图
+   <p align="center">
+    <img src="../images/gif4.gif" align="middle" width = "600" />
+  </p>
 ## 扩展功能效果展示
 - 1.图片裁剪
   <p align="center">
