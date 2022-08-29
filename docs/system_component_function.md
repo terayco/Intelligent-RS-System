@@ -12,7 +12,7 @@
 ## 主要功能效果展示
 - 1.变化检测
   <p align="center">
-    <img src="../images/bianhuajiance.png" align="middle" width = "600" />
+    <img src="../images/bianhua.png" align="middle" width = "600" />
   </p>
 - 2.目标检测
   <p align="center">
@@ -20,11 +20,11 @@
   </p>
 - 3.目标提取
   <p align="center">
-    <img src="../images/seg_xuanran.png" align="middle" width = "600" />
+    <img src="../images/mubiao.png" align="middle" width = "600" />
   </p>
 - 4.地物分类
   <p align="center">
-     <img src="../images/mubiaotiqu.png" align="middle" width = "600" />
+     <img src="../images/diwu.png" align="middle" width = "600" />
   </p>
 - 5.在线地图
   <p align="center">
