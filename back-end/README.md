@@ -8,3 +8,4 @@
 提取码：zyhb
 - 地物分类模型：https://pan.baidu.com/s/14wai6-tDNcG6IcDvwZ070w?pwd=2hdi 
 提取码：2hdi
+另由于时间问题源代码暂时还未更新至最新版本，还请谅解。
