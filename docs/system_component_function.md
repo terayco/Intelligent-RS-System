@@ -37,10 +37,10 @@
   </p>
 - 4.渲染（变化检测/目标提取）
   <p align="center">
-    <img src="../images/bianhuaxuanran.png" align="middle" width = "600" />
+    <img src="../images/gif1.gif" align="middle" width = "600" />
   </p>
   <p align="center">
-    <img src="../images/mubiaoxuanran.png" align="middle" width = "600" />
+    <img src="../images/gif2.gif" align="middle" width = "600" />
   </p>
 - 5.连通域滤波及孔洞填充
   <p align="center">
