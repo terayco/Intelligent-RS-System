@@ -3,6 +3,8 @@
  [![License](https://img.shields.io/badge/license-MIT%20-blue.svg)](LICENSE)
   ![python version](https://img.shields.io/badge/python-3.8+-orange.svg)
   ![support os](https://img.shields.io/badge/os-linux%2C%20win%2C%20mac-yellow.svg)
+## 演示视频
+网址：https://www.bilibili.com/video/BV1eY4y1u7Eq/?vd_source=75a73fc15a4e8b25195728ee93a5b322
 ## 介绍
 本项目基于[百度飞桨Paddle](https://www.paddlepaddle.org.cn/)框架和[PaddleRS](https://github.com/PaddleCV-SIG/PaddleRS)库开发，以web形式为用户提供遥感图像智能解译服务。
 ## Overview
