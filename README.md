@@ -6,7 +6,7 @@
 ## 演示视频
 网址：https://www.bilibili.com/video/BV1eY4y1u7Eq/?vd_source=75a73fc15a4e8b25195728ee93a5b322
 ## 介绍
-本项目为第十一届中国软件杯一等奖作品，基于[百度飞桨Paddle](https://www.paddlepaddle.org.cn/)框架和[PaddleRS](https://github.com/PaddleCV-SIG/PaddleRS)库开发，以web形式为用户提供遥感图像智能解译服务。
+本项目为第十一届【中国软件杯】一等奖作品，基于[百度飞桨Paddle](https://www.paddlepaddle.org.cn/)框架和[PaddleRS](https://github.com/PaddleCV-SIG/PaddleRS)库开发，以web形式为用户提供遥感图像智能解译服务。
 ## Overview
 * 系统组成
   * [平台主页](docs/system_component_main.md)
