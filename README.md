@@ -1,5 +1,5 @@
 ![](images/paddleRS.png)
-# 第十一届中国软件杯一等奖作品——基于百度飞桨的遥感图像智能解译平台
+# 基于百度飞桨paddlepaddle的遥感图像智能解译平台
  [![License](https://img.shields.io/badge/license-MIT%20-blue.svg)](LICENSE)
   ![python version](https://img.shields.io/badge/python-3.8+-orange.svg)
   ![support os](https://img.shields.io/badge/os-linux%2C%20win%2C%20mac-yellow.svg)
