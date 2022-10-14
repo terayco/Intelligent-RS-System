@@ -3,6 +3,8 @@
  [![License](https://img.shields.io/badge/license-MIT%20-blue.svg)](LICENSE)
   ![python version](https://img.shields.io/badge/python-3.8+-orange.svg)
   ![support os](https://img.shields.io/badge/os-linux%2C%20win%2C%20mac-yellow.svg)
+## 最新动态
+[2022-10-14]为了提供更好的使用体验，本项目已迁移至[PP-GeoView](https://github.com/PaddleCV-SIG/PP-GeoView)仓库，现有代码仓库将不再更新。我们将会提供更全面的遥感功能，欢迎大家去新的地址体验。
 ## 演示视频
 网址：https://www.bilibili.com/video/BV1eY4y1u7Eq/?vd_source=75a73fc15a4e8b25195728ee93a5b322
 ## 介绍
